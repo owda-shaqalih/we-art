@@ -1,0 +1,285 @@
+@media screen and (min-width: 1600px) {
+	.home_content{
+		padding-top: 200px;
+	}
+	.inner_page_layout{
+		padding-top: 200px;
+	}
+	.sc_head_page{
+		margin-bottom: 50px;
+	}
+	.why_bg{
+		max-width: 50%;
+	}
+	.main_meun li{
+		margin-top: 50px;
+	}
+	.cn_block_vis{
+		padding-top: 140px;
+	}
+}
+@media screen and (max-width: 1199px) {
+	.home_txt h2,.sc_head_page h2{
+		font-size: 34px;
+	}
+	.home_txt p{
+		padding: 0;
+	}
+	.home_txt p{
+		font-size: 15px;
+	}
+	.bk_cto_say{
+		margin-top: 60px;
+	}
+	.who_comment h2{
+		font-size: 16px;
+	}
+	.main_meun li a{
+		font-size: 34px;
+	}
+	.mm_contact_box{
+		padding: 0 15px 0 0;
+	}
+}
+@media screen and (max-width: 991px) {
+	.home_txt h2,.sc_head_page h2{
+		font-size: 28px;
+	}
+	.container{
+		padding-left: 90px;
+		padding-right: 90px;
+	}
+	.social_links{
+		width: 90px;
+	}
+	.action_theme{
+		transform: translateX(-36%) rotate(-90deg);
+	}
+	.action_theme_cn > a{
+		font-size: 16px;
+	}
+	.btn_prim{
+		min-width: 180px;
+	}
+	.home_page .container{
+		background-size: 60%;
+	}
+	.btn_line{
+		padding: 10px 20px 10px 80px;
+	}
+	.btn_line:before{
+		left: 20px;
+		width: 50px;
+	}
+	.home_txt .btn_prim{
+		margin-top: 20px;
+	}
+	.cto_pic > img{
+		width: 60px;
+		height: 60px;
+	}
+	.cto_txt{
+		margin-left: 95px;
+	}
+	.bk_cto_say{
+		margin-top: 50px;
+	}
+	.main_meun li a,.tt_line,.mm_contact_box .tt_line{
+		font-size: 28px;
+	}
+	.main_meun li{
+		margin-top: 30px;
+	}
+	.main_meun{
+		padding: 0;
+	}
+	.mm_contact_box{
+		padding: 0;
+	}
+	.why_bg{
+		max-width: 52%;
+	}
+	.partner_item{
+		height: 100px;
+	}
+	.logo_site > a{
+		max-width: 65px;
+	}
+}
+@media screen and (max-width: 767px) {
+	.social_links,.action_theme{
+		display: none !important;
+	}
+	.container{
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+	.bk_vedio{
+		position: relative;
+		width: 100%;
+		top: auto;
+		right: auto;
+		height: auto;
+	}
+	.home_page_layout, .inner_page_layout{
+		padding-top: 0;
+		min-height: calc(100vh - 115px);
+	}
+	#header{
+		position: relative;
+	}
+	.home_content{
+		padding-top: 30px;
+	}
+	.home_txt h2,.sc_head_page h2{
+		font-size: 26px;
+	}
+	.home_page .container{
+		background-size: contain;
+		background-position: 50% 95%;
+	}
+	.main_meun li a, .tt_line,.mm_contact_box .tt_line {
+	    font-size: 24px;
+	}
+	.cn_block_vis{
+		padding: 70px 0 30px;
+	}
+	
+	.form_st2 .form-group{
+		margin-bottom: 30px;
+	}
+	.form_st2 .form-control{
+		height: 50px;
+	}
+	.form_st2 label{
+		top: 15px;
+	}
+	.colum_block .action_theme{
+		display: inline-block !important;
+		/*transform: none;*/
+		position: relative;
+		bottom: auto;
+		margin-top: 20px;
+	}
+	.action_theme_cn > a > span{
+		width: 20px;
+	}
+	.action_theme_cn > a.active > span{
+		width: 50px;
+	}
+	.action_theme_cn{
+		padding: 10px 15px;
+	}
+	.home_page_layout,.inner_page_layout{
+		padding-bottom: 30px;
+	}
+	.bk_team{
+		margin-top: 30px;
+	}
+	.line_sty{
+		height: 100%;
+	}
+	.why_bg{
+		display: none;
+	}
+	.why_item h2,.services_txt h2{
+		font-size: 16px;
+	}
+	.why_list{
+		padding-top: 0;
+	}
+	.why_item{
+		padding-top: 5px;
+	}
+	.desc_serv p{
+		margin-bottom: 10px;
+	}
+	.partners_list{
+		padding-top: 10px;
+	}
+}
+@media screen and (max-width: 575px) {
+	.hidden-xs{
+		display: none;
+	}
+	.home_txt h2{
+		font-size: 24px;
+	}
+	.sc_head_page h2{
+		font-size: 22px;
+	}
+	.home_txt p{
+		font-size: 14px;
+	}
+	.who_comment h3{
+		font-size: 24px;
+	}
+	.who_comment h2{
+		font-size: 15px;
+	}
+	.ct-dot-menu:nth-child(2){
+		display: none;
+	}
+	.colum_block{
+		padding: 0 15px;
+	}
+	.colum_block_info{
+		margin-top: 30px;
+	}
+	.main_meun li a, .tt_line,.mm_contact_box .tt_line {
+	    font-size: 20px;
+	}
+	.ms_info li > a{
+		font-size: 16px;
+	}
+	.ms_info li > a > span img{
+		max-width: 18px;
+	}
+	.logo_site > a{
+		max-width: 50px;
+	}
+	.visible_xs{
+		display: block !important;
+	}
+	#header{
+		padding: 15px 0;
+	}
+	.sub_title{
+		font-size: 16px;
+	}
+	.sc_head_page p{
+		margin-top: 10px;
+	}
+	.sc_head_page p{
+		font-size: 15px;
+	}
+	.home_page_layout, .inner_page_layout{
+		min-height: calc(100vh - 80px);
+	}
+	.services_pic{
+		margin-bottom: 20px;
+	}
+	.partner_item{
+		padding: 15px;
+		height: 80px;
+	}
+	.services_pic{
+	  height: 150px;
+	  display: -webkit-box;
+	  display: -moz-box;
+	  display: -ms-flexbox;
+	  display: -webkit-flex;
+	  display: flex;
+	}
+	.services_pic > img{
+		margin: auto;
+		max-height: 100%;
+		width: auto !important;
+	}
+	#services_slider.owl-carousel .owl-stage{
+		padding-left: 0 !important
+	}
+	#team_slider.owl-carousel .owl-stage{
+		padding-left: 0 !important
+	}
+}

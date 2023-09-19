@@ -1,0 +1,70 @@
+.main-wrapper,.btn_line:hover:before{
+	background-color: #ffffff;
+}
+.home_page .container{
+	background-image: none;
+}
+.btn_line,.home_txt h2,.home_txt p,.who_comment h2,.social_links li > a,
+.sc_head_page h2,.services_txt h2,.sub_title,.why_item h2,.owl-carousel.owl_sty .owl-nav > button{
+	color: #262647;
+}
+.btn_line,.social_links li > a,.action_theme_cn{
+	border-color: #262647;
+}
+.btn_line:before{
+	background-color: #262647;
+}
+.comment_cto p{
+	color: rgba(38,38,71,0.88);
+}
+.action_theme_cn > a{
+	color: rgba(38,38,71,0.54);
+}
+.action_theme_cn > a > span{
+	background-color: rgba(38,38,71,0.54);
+}
+.action_theme_cn > a > span:before{
+	background-color: rgba(38,38,71,1);
+}
+.action_theme_cn > a.active,
+.action_theme_cn > a:hover{
+	color: rgba(38,38,71,1) !important;
+}
+.action_theme_cn > a.active > span:before{
+	width: 100%;
+}
+.sc_head_page p,.desc_serv p,.about_txt p,.why_item p{
+	color: rgba(38,38,71,0.71);
+}
+.desc_serv:before,.line_sty,.why_item:before{
+	background-color: rgba(38,38,71,0.19);
+}
+.desc_serv:after,.line_sty i,.why_item:after,.owl-carousel.owl_sty .owl-dots > button{
+	background-color: rgba(38,38,71,0.48);
+}
+.owl-carousel.owl_sty .owl-dots > button.active{
+	background-color: rgba(38,38,71,0.88);
+}
+.partner_item{
+	background-color: #FAFAFA;
+}
+.content_mscreen_menu .action_theme_cn{
+	border-color: #ffffff;
+}
+.content_mscreen_menu .action_theme_cn > a{
+	color: rgba(255,255,255,0.5);
+}
+.content_mscreen_menu .action_theme_cn > a:hover,
+.content_mscreen_menu .action_theme_cn > a.active{
+	color: #ffffff !important;
+}
+.content_mscreen_menu .action_theme_cn > a > span{
+	background-color: rgba(255,255,255,0.5);
+}
+.content_mscreen_menu .action_theme_cn > a > span:before{
+	background-color: #ffffff !important;
+}
+.content_mscreen_menu .action_theme_cn > a.active > span:before{
+	background-color: #ffffff !important;
+	width: 100%;
+}

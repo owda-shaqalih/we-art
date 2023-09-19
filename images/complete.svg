@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.3" height="24.392" viewBox="0 0 25.3 24.392">
+  <g id="complete" transform="translate(-0.55 -1.011)">
+    <line id="Line_35" data-name="Line 35" x2="13.2" y2="7.7" transform="translate(6.6 4.95)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.1"/>
+    <path id="Path_30" data-name="Path 30" d="M25.3,9.35l-11,6.6L1.1,8.25" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.1"/>
+    <line id="Line_36" data-name="Line 36" y2="8.8" transform="translate(14.3 15.95)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.1"/>
+    <path id="Path_31" data-name="Path 31" d="M25.3,9.35v7.7l-11,7.7L1.1,17.05V8.25l11-6.6Z" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1"/>
+  </g>
+</svg>
